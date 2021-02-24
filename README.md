@@ -1,0 +1,2 @@
+# kakofetch
+Fetch para openSUSE
