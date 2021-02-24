@@ -4,12 +4,12 @@
 
 ## Instalación
 ```
-$ cd /Descargas && git clone https://github.com/kakohn/kakofetch.git && cd kakofetch
+$ cd Descargas/ && git clone https://github.com/kakohn/kakofetch.git && cd kakofetch/
 $ make install
 ```
 
 ## Desinstalación
 ```
-$ cd /Descargas/kakofetch
+$ cd Descargas/kakofetch/
 $ make uninstall
 ```
