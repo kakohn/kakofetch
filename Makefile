@@ -1,5 +1,5 @@
 install:
-	@mv kakofetch ~/bin
+	@chmod +x kakofetch && mv kakofetch ~/bin
 	@echo "Instalacion finalizada"
 	
 uninstall:
