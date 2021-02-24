@@ -28,3 +28,4 @@ echo -e "${GREEN}RAM:${NC} "$(free -m | grep "Mem" | awk '{print $3+$5"/"$2" MiB
 
 paste <(echo "$(logo)") <(echo "$(informacion)")
 echo -e "\t\t\t\t${GREEN}I${NC} love ${GREEN}openSUSE${NC}"
+echo " "
