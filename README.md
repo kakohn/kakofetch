@@ -17,7 +17,7 @@ $ cd Descargas/kakofetch/
 $ make uninstall
 ```
 
-## Creditos
+## Créditos
 
 #### HydraDarkNg
 - [Axolotl Fetch](https://gitlab.com/HydraDarkNg/axolotlFetch): base del sh.
