@@ -1,7 +1,7 @@
 <h1 align="center"> kakofetch </h1>
 <h2 align="center"> Fetch para openSUSE </h1>
 
-![Captura_21_02_24_17-44](https://user-images.githubusercontent.com/65475712/109083420-806d0880-76cb-11eb-8604-074f25d3eb20.png)
+<p align="center"><img src="https://github.com/kakohn/kakofetch/blob/main/kakofetch.png" width="575px"></p>
 
 kakofetch es un script shell **(alpha)** centrado en mostrar los datos de openSUSE mediante la consola.
 
