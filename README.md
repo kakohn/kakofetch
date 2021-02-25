@@ -17,8 +17,8 @@ $ make uninstall
 
 ## Creditos
 
-### HydraDarkNg
+#### HydraDarkNg
 - [Axolotl Fetch](https://gitlab.com/HydraDarkNg/axolotlFetch): base del sh.
 
-### jschx
+#### jschx
 - [ufetch](https://gitlab.com/jschx/ufetch): Lots of ASCII logos.
