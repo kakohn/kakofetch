@@ -1,6 +1,6 @@
-# kakofetch
-### Fetch para openSUSE
-![Captura_21_02_24_17-44](https://user-images.githubusercontent.com/65475712/109081576-2159c480-76c8-11eb-9923-14d7a213a21b.png)
+<h1 align="center"> kakofetch </h1>
+<h2 align="center"> Fetch para openSUSE </h1>
+<p align="center"><![Captura_21_02_24_17-44](https://user-images.githubusercontent.com/65475712/109081576-2159c480-76c8-11eb-9923-14d7a213a21b.png)></p>
 
 #### Instalación
 ```
