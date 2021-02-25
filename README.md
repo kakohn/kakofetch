@@ -20,7 +20,7 @@ $ make uninstall
 ## Créditos
 
 #### HydraDarkNg
-- [Axolotl Fetch](https://gitlab.com/HydraDarkNg/axolotlFetch): base del sh.
+- [Axolotl Fetch](https://gitlab.com/HydraDarkNg/axolotlFetch): Base del sh.
 
 #### jschx
 - [ufetch](https://gitlab.com/jschx/ufetch): Logo ASCII de openSUSE Tumbleweed.
