@@ -1,6 +1,6 @@
 <h1 align="center"> kakofetch </h1>
 <p align="center"><img src="https://github.com/kakohn/kakofetch/blob/main/kakofetch.png" width="575px"></p>
-<p align="center"> kakofetch es un script shell (alpha) centrado en mostrar los datos de openSUSE mediante la consola (CLI). </p><br>
+<p align="center"> kakofetch es un script shell (alpha) centrado en mostrar los datos del sistema para openSUSE mediante la consola (CLI). </p><br>
 
 #### Instalación
 ```
