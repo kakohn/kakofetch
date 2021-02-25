@@ -20,5 +20,5 @@ $ make uninstall
 ### HydraDarkNg
 - [Axolotl Fetch](https://gitlab.com/HydraDarkNg/axolotlFetch): base del sh.
 
-### dylanaraps
-- [pfetch](https://github.com/dylanaraps/pfetch): ASCII de openSUSE.
+### jschx
+- [ufetch](https://gitlab.com/jschx/ufetch): Lots of ASCII logos.
