@@ -3,6 +3,8 @@
 
 ![Captura_21_02_24_17-44](https://user-images.githubusercontent.com/65475712/109083420-806d0880-76cb-11eb-8604-074f25d3eb20.png)
 
+Kakofetch es un script shell **(alpha)** centrado en mostrar los datos de openSUSE mediante la consola.
+
 #### Instalación
 ```
 $ cd Descargas/ && git clone https://github.com/kakohn/kakofetch.git && cd kakofetch/
@@ -21,4 +23,4 @@ $ make uninstall
 - [Axolotl Fetch](https://gitlab.com/HydraDarkNg/axolotlFetch): base del sh.
 
 #### jschx
-- [ufetch](https://gitlab.com/jschx/ufetch): ASCII logo de openSUSE Tumbleweed.
+- [ufetch](https://gitlab.com/jschx/ufetch): Logo ASCII de openSUSE Tumbleweed.
