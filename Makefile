@@ -3,5 +3,5 @@ install:
 	@echo "Instalacion finalizada"
 	
 uninstall:
-	@cd ~/bin && rm kakofetch
+	@rm ~/bin/kakofetch
 	@echo "Desinstalación finalizada"
