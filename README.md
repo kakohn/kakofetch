@@ -21,4 +21,4 @@ $ make uninstall
 - [Axolotl Fetch](https://gitlab.com/HydraDarkNg/axolotlFetch): base del sh.
 
 #### jschx
-- [ufetch](https://gitlab.com/jschx/ufetch): Lots of ASCII logos.
+- [ufetch](https://gitlab.com/jschx/ufetch): ASCII logo de openSUSE Tumbleweed.
