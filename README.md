@@ -18,7 +18,7 @@ $ make uninstall
 ## Creditos
 
 ### HydraDarkNg
-    - [Axolotl Fetch](https://gitlab.com/HydraDarkNg/axolotlFetch): base del sh.
+- [Axolotl Fetch](https://gitlab.com/HydraDarkNg/axolotlFetch): base del sh.
 
 ### dylanaraps
-    - [pfetch](https://github.com/dylanaraps/pfetch): ASCII de openSUSE.
+- [pfetch](https://github.com/dylanaraps/pfetch): ASCII de openSUSE.
