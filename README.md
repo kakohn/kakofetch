@@ -7,17 +7,14 @@
 - [Créditos](https://github.com/kakohn/kakofetch#desinstalaci%C3%B3n)
 
 #### Instalación
-```
-$ cd Descargas/ && git clone https://github.com/kakohn/kakofetch.git && cd kakofetch/
-$ make install
-```
+
+    $ cd Descargas/ && git clone https://github.com/kakohn/kakofetch.git && cd kakofetch/
+    $ make install
 
 #### Desinstalación
-```
-$ cd Descargas/kakofetch/
-$ make uninstall
-```
-<br>
+
+    $ cd Descargas/kakofetch/
+    $ make uninstall
 
 ## Créditos
 
