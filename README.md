@@ -1,6 +1,5 @@
-<h1 align="center"> kakofetch </h1>
-![preview](screenshots/kakofetch.png)
-<p align="center"> kakofetch es un script shell (alpha) centrado en mostrar los datos del sistema mediante la consola. </p>
+# kakofetch
+kakofetch es un script shell (alpha) centrado en mostrar los datos del sistema mediante la consola.
 
 - [Instalación](https://github.com/kakohn/kakofetch#instalaci%C3%B3n)
 - [Desinstalación](https://github.com/kakohn/kakofetch#desinstalaci%C3%B3n)
@@ -20,6 +19,3 @@
 
 #### HydraDarkNg
 - [Axolotl Fetch](https://gitlab.com/HydraDarkNg/axolotlFetch): Base del sh.
-
-#### dylanaraps
-- [pfetch](https://github.com/dylanaraps/pfetch): Logo ASCII de openSUSE Tumbleweed.
